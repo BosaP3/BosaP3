@@ -1,11 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1655BB94&height=120&section=header"/>
 
-## Hello, I am Pedro!
------------------------------------------------
-<div  align="center" style="margin-bottom:100px">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BosaP3&hide_border=true&border_radius=10&stroke=1D61A0&ring=FF8815&fire=FF8815&currStreakNum=FFFFFF&currStreakLabel=FF8815&border=FFFFFF&sideNums=FF8815&sideLabels=FF8815&dates=FFFFFF&excludeDaysLabel=FFFFFF&background=45%2C1655BB%2C1655BB5F" alt="GitHub Streak" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1655BB94&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pedro;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
-</div>
- 
+---
+
+&nbsp;
 ## My Skills
 
 #### Main Stack:
@@ -15,8 +14,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
