@@ -1,14 +1,11 @@
 
-# Hello, I am Pedro!
+## Hello, I am Pedro!
 -----------------------------------------------
-
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BosaP3&theme=radical&mode=weekly" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BosaP3&hide_border=true&border_radius=10&stroke=1D61A0&ring=FF8815&fire=FF8815&currStreakNum=FFFFFF&currStreakLabel=FF8815&border=FFFFFF&sideNums=FF8815&sideLabels=FF8815&dates=FFFFFF&excludeDaysLabel=FFFFFF&background=45%2C1655BB%2C1655BB5F" alt="GitHub Streak" /></a>
+
+</div>
  
- &nbsp;
- &nbsp;
-
-
 ## My Skills
 
 #### Main Stack:
@@ -48,4 +45,4 @@
 </div>&nbsp;&nbsp;
  
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080a5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1655BB94&height=120&section=footer"/>
